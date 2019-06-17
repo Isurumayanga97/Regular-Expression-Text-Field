@@ -32,30 +32,32 @@
     <div class="form-group row">
         <label for="inputPassword" class="col-sm-2 col-form-label">Customer Name</label>
         <div class="col-sm-10">
-            <input type="text" class="form-control" id="inputPassword2" placeholder="Customer Name" name="Custname">
-            <span>Ex:-Isuru Umayanga</span>
+            <input type="text" class="form-control" id="namefill" placeholder="Customer Name" name="Custname">
+            <span>Ex:-Isuru</span>
         </div>
     </div>
 
     <div class="form-group row">
         <label for="inputPassword" class="col-sm-2 col-form-label">Customer Address</label>
         <div class="col-sm-10">
-            <input type="text" class="form-control" id="inputPassword3" placeholder="Customer Address" name="CustAddress">
-
+            <input type="text" class="form-control" id="address" placeholder="Customer Address" name="CustAddress">
+            <span>Ex:-Galle sri lanka</span>
         </div>
     </div>
 
     <div class="form-group row">
         <label for="inputPassword" class="col-sm-2 col-form-label">Customer Telephone</label>
         <div class="col-sm-10">
-            <input type="text" class="form-control" id="inputPassword4" placeholder="CustomerTelephone" name="Custtel">
+            <input type="text" class="form-control" id="custtelnum" placeholder="CustomerTelephone" name="Custtel">
+            <span>Ex:-0XXXXXXXXXX</span>
         </div>
     </div>
 
     <div class="form-group row">
         <label for="inputPassword" class="col-sm-2 col-form-label">Customer Salary</label>
         <div class="col-sm-10">
-            <input type="text" class="form-control" id="inputPassword" placeholder="Customer Salary" name="Custsalary">
+            <input type="text" class="form-control" id="cutsal" placeholder="Customer Salary" name="Custsalary">
+            <span>Ex:-0000.00</span>
         </div>
     </div>
 
